@@ -3,6 +3,8 @@
 
 > I chose to do this project as I have played League of Legends since Season Three which started in February 1st, 2013. I have a lot of knowledge of the game and would hope to one day work as an analyst in the video game industry whether it be working with developers or working in Esports. This project to me gives me the experience of working in the industry I would like to grow into.
 
-> The open source data was collected by Kevin D’Souza and is available at https://www.kaggle.com/kevindsouza2794/league-of-legends-regional-data
+> The open source data was collected by Kevin D’Souza and is available at: https://www.kaggle.com/kevindsouza2794/league-of-legends-regional-data
 
-> The Tableau storyboard created utilizing this data is viewable at https://public.tableau.com/views/LoLSeason8RegionalData/LeagueofLegendsSeason8RegionalDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+> Geographical shape files was provided at: https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/
+
+> The Tableau storyboard created utilizing this data is viewable at: https://public.tableau.com/views/LoLSeason8RegionalData/LeagueofLegendsSeason8RegionalDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
